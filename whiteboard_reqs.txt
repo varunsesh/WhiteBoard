@@ -1,0 +1,15 @@
+
+database/logins
+- define logins
+- define groups
+- group is defined as > 1 user
+- members of a group share a board
+
+
+
+- implement white board
+	- webgl for drawing simple lines (?)
+	- draw 2d shapes on canvas (?)
+
+
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
